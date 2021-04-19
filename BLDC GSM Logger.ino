@@ -3,7 +3,10 @@
 Name: BLDC Pump GSM Data Logger
 Purpose: Logs current and voltage values of the BLDC Pump during usage.
 
-@Author: tinegachris
+@Author: Chrispine Tinega <tinega.chris@kickstart.org>
+
+Last edited by: tinegachris <https://github.com/tinegachris>
+
 @Version: 1.1
 
 **/
